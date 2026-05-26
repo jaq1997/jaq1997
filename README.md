@@ -1,19 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+Hi%2C+I'm+Jaqueline+Aguiar+%F0%9F%91%BE;%3E+Fullstack+Dev+%2B+Designer+%2B+AI+builder;%3E+Always+learning%2C+always+creating.)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jaqueline+Aguiar+%F0%9F%91%BE;Fullstack+Dev+%2B+Designer+%2B+AI+builder;Always+learning%2C+always+creating.)](https://git.io/typing-svg)
 
 </div>
 
-```bash
-$ whoami
-> fullstack dev · UI/UX designer · AI agent builder · eternal learner
-```
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
+</div>
 
-### 🖥️ `~/about-me`
+<br/>
 
 ```python
 class Jaqueline:
@@ -25,11 +22,9 @@ class Jaqueline:
     coffee     = True  # always
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
----
-
-### ⚡ `~/tech-stack`
+### Tech
 
 **Frontend**
 
@@ -52,16 +47,15 @@ class Jaqueline:
 
 **AI / Agents**
 
-![Python](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=robot&logoColor=00FF41)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=thunderbird&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
-### 🎨 `~/design`
+### Design
 
 > *Code is how I build it. Design is how I make people feel it.*
 
@@ -73,37 +67,34 @@ class Jaqueline:
 
 <div align="center">
 
-**Check out my design work 👇**
-
 [![Behance](https://img.shields.io/badge/Behance-JAQ__DESIGNER-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/JAQ_DESIGNER)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
-### 📊 `~/metrics`
+### Metrics
 
 <div align="center">
 
-<img src="/github/metrics.svg" alt="Metrics" width="49%"/>
-<img src="/github/metrics.languages.svg" alt="Languages" width="49%"/>
+<img src="/github/metrics.calendar.svg" alt="Commit Calendar" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="/github/metrics.calendar.svg" alt="Commit Calendar" width="100%"/>
+
+| 🥇 JavaScript | 🥈 CSS | 🥉 Python |
+|:---:|:---:|:---:|
+| ⭐ principal | ⭐ design & estilo | ⭐ dados & IA |
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
 <div align="center">
-
-### 📡 `~/connect`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaqueline%20Aguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaqueline-aguiar)
 [![Behance](https://img.shields.io/badge/Behance-JAQ__DESIGNER-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/JAQ_DESIGNER)
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jaq1997.jaq1997&left_color=black&right_color=00ff41&left_text=visitors)
 

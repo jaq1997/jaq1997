@@ -71,21 +71,7 @@ class Jaqueline:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 
-### Metrics
-
-<div align="center">
-
-<img src="/github/metrics.calendar.svg" alt="Commit Calendar" width="100%" style="max-width:900px"/>
-
-</div>
-
-<div align="center">
-
-| 🥇 Python | 🥈 CSS | 🥉 JavaScript |
-
-</div>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>
 

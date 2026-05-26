@@ -18,7 +18,7 @@ class Jaqueline:
     focus      = ["Fullstack", "AI Agents", "UI/UX Design"]
     languages  = ["Python", "JavaScript", "HTML", "CSS"]
     currently  = "Building intelligent things"
-    also_does  = "Makes them look good too 🎨"
+    also_does  = "Makes them look good too"
     coffee     = True  # always
 ```
 
@@ -77,15 +77,13 @@ class Jaqueline:
 
 <div align="center">
 
-<img src="/github/metrics.calendar.svg" alt="Commit Calendar" width="100%"/>
+<img src="/github/metrics.calendar.svg" alt="Commit Calendar" width="100%" style="max-width:900px"/>
 
 </div>
 
 <div align="center">
 
-| 🥇 JavaScript | 🥈 CSS | 🥉 Python |
-|:---:|:---:|:---:|
-| ⭐ principal | ⭐ design & estilo | ⭐ dados & IA |
+| 🥇 Python | 🥈 CSS | 🥉 JavaScript |
 
 </div>
 
@@ -96,6 +94,6 @@ class Jaqueline:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaqueline%20Aguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaqueline-aguiar)
 [![Behance](https://img.shields.io/badge/Behance-JAQ__DESIGNER-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/JAQ_DESIGNER)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jaq1997.jaq1997&left_color=black&right_color=00ff41&left_text=visitors)
+
 
 </div>

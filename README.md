@@ -65,12 +65,6 @@ class Jaqueline:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-<div align="center">
-
-[![Behance](https://img.shields.io/badge/Behance-JAQ__DESIGNER-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/JAQ_DESIGNER)
-
-</div>
-
 
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="2px"/>

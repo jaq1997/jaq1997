@@ -8,7 +8,7 @@
 class Jaqueline:
     location   = "Brasil 🇧🇷"
     focus      = ["Fullstack", "AI Agents", "UI/UX Design"]
-    languages  = ["Python", "JavaScript", "HTML", "CSS"]
+    languages  = ["Python", "JavaScript", "HTML", "CSS", "React", "Java"]
     currently  = "Building intelligent things"
     also_does  = "Makes them look good too"
     coffee     = True  # always
